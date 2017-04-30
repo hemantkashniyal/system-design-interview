@@ -52,6 +52,7 @@ Here are some articles about system design related topics.
 * [The CAP FAQ](https://github.com/henryr/cap-faq)
 * [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+* [Consistent Hashing C++ example](http://www.martinbroadhurst.com/consistent-hash-ring.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 
